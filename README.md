@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=drinkal&show_icons=true&theme=nord&custom_title=Stats)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drinkal&theme=nord&layout=compact)
+
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=drinkal&theme=nord)
