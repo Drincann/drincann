@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span id="star"></span>
-
-<script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script>
-<script>
-(async () => {
-    const data = await axios.get('https://api.github.com/users/drinkal/repos');
-    let star = 0;
-    data.forEach((val)=>{
-        star += val.stargazers_count;
-        document.querySelector('#star').innerHTML = star;
-    });
-    
-})()
-</script>
+https://github-readme-stats.vercel.app/api?username=drinkal
