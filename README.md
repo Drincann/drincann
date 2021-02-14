@@ -2,7 +2,7 @@
 <!--
 ### Hi there 👋
 
-**drinkal/drinkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drincann/drincann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 <!-- 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=drinkal&theme=nord)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=drincann&theme=nord)
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drinkal&theme=nord&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=drincann&theme=nord&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=drinkal&show_icons=true&theme=nord&custom_title=Stats)
+![](https://github-readme-stats.vercel.app/api?username=drincann&show_icons=true&theme=nord&custom_title=Stats)
 
