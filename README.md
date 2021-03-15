@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drincann&theme=nord&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=drincann&show_icons=true&theme=nord&custom_title=Stats)
-
-[![Stargazers repo roster for @Drincann/Mirai-js](https://reporoster.com/stars/Drincann/Mirai-js)](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Drincann&repo=Mirai-js)
