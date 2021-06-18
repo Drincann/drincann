@@ -3,7 +3,7 @@
   <img align="right" src='https://github-readme-stats.vercel.app/api?username=drincann&show_icons=true&theme=nord&custom_title=Stats' width="60%"/>
 
 # 高厉害
-> 从来都是一个无趣的人
+> 想要一小块凝固的时间
 > 
 [笔记本](https://gaolihai.cool/note)
 
