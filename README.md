@@ -5,7 +5,7 @@
 # 高厉害
 > 想要一小块凝固的时间
 > 
-[笔记本](http://gaolihai.cool)
+[笔记本](http://codingfor.life)
 
 [知乎](https://www.zhihu.com/people/gao-jun-kang)
 
