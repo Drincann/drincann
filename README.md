@@ -5,10 +5,10 @@
 # 高厉害
 > 想要一小块凝固的时间
 > 
+I found the best way to learn how a tech works is try to build it from the underlying even if the product you implemented is very simple.
+
 [笔记本](http://codingfor.life)
 
 [知乎](https://www.zhihu.com/people/gao-jun-kang)
 
 [CSDN](https://blog.csdn.net/qq_16181837)
-
-<!-- START gadpp -->
