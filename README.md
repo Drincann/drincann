@@ -4,8 +4,10 @@
 
 # 高厉害
 > 想要一小块凝固的时间
-> 
-I found the best way to learn how a tech works is try to build it from the underlying even if the product you implemented is very simple.
+
+我发现了一个非常好的实践，来了解一个技术到底是如何运转和工作的：
+
+那就是 _**从其底层解构它，然后以最简单的方式去重新实现它**_。
 
 [笔记本](http://codingfor.life)
 
