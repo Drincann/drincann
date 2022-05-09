@@ -58,4 +58,4 @@ _**从其底层解构它，然后以最简单的方式去重新实现它**_。
   - [Drincann/koa-bodyparser](https://github.com/Drincann/koa-bodyparser) body parser
   - [Drincann/koa-static](https://github.com/Drincann/koa-static) 静态资源访问服务
   - [Drincann/koa-etag](https://github.com/Drincann/koa-etag) etag 中间件实现
-  - [Drincann/koa-router](https://github.com/Drincann/koa-router) 简单路由实现，使用 trie 实现的动态路由可以看我的另一个项目 dotnet-angie
+  - [Drincann/koa-router](https://github.com/Drincann/koa-router) 简单路由实现，使用 trie 实现的动态路由可以看我的另一个项目 angie-dotnet
