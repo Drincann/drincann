@@ -17,6 +17,10 @@ _**从其底层解构它，然后以最简单的方式去重新实现它**_。
 
 # 一些有趣的项目
 
+- [Drincann/Promise](https://github.com/Drincann/Promise)
+  
+  Promise 实现。
+  
 - [Drincann/koa-shutdown-gracefully](https://github.com/Drincann/koa-shutdown-gracefully) 
 
   用来对服务器进行优雅停机，以平滑重启 Koa 应用。
