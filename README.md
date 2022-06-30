@@ -20,6 +20,10 @@ _**从其底层解构它，然后以最简单的方式去重新实现它**_。
   
   Promise 实现。
   
+- [Drincann/js-coroutine](https://github.com/Drincann/js-coroutine)
+
+  TypeScript 实现的协程执行器。
+  
 - [Drincann/koa-shutdown-gracefully](https://github.com/Drincann/koa-shutdown-gracefully) 
 
   用来对服务器进行优雅停机，以平滑重启 Koa 应用。
