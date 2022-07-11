@@ -30,7 +30,7 @@ _**从其底层解构它，然后以最简单的方式去重新实现它**_。
   
 - [js-coroutine](https://github.com/Drincann/js-coroutine)
 
-  适配 Thunk/Promise 上层协程调度逻辑封装。
+  适配 Thunk/Promise 的上层协程调度逻辑封装。
   
 - [angie-dotnet](https://github.com/Drincann/angie-dotnet)
 
