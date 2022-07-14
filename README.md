@@ -8,7 +8,7 @@ Two steps to understand how a system works:
 
 - **Get a general high-level idea.**
 
-- **Deconstruct it from low-level and re-implement it in a simplest way**。
+- **Deconstruct it from the low-level and re-implement it in a simplest way**。
 
 [笔记本](http://codingfor.life)
 
