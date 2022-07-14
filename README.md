@@ -2,11 +2,13 @@
   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=drincann&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="60%"/>
   <img align="right" src='https://github-readme-stats.vercel.app/api?username=drincann&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="60%"/>
 
-# 高厉害 [![HitCount](https://hits.dwyl.com/Drincann/Drincann.svg?style=flat-square)](http://hits.dwyl.com/Drincann/Drincann)
+# Drincann [![HitCount](https://hits.dwyl.com/Drincann/Drincann.svg?style=flat-square)](http://hits.dwyl.com/Drincann/Drincann)
 
-我发现了一个非常好的实践方法，来了解一个技术到底是如何运转和工作的：
+Two steps to understand how a system works:
 
-_**从其底层解构它，然后以最简单的方式去重新实现它**_。
+- **Get a general high-level idea.**
+
+- **Deconstruction it from low-level and re-implement it in a simplest way**。
 
 [笔记本](http://codingfor.life)
 
