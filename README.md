@@ -46,6 +46,14 @@ Two steps to understand how a system works:
 
   用来对服务器进行优雅停机，以平滑重启 Koa 应用。
   
+- [pico-code-snippets](https://github.com/Drincann/pico-code-snippets)
+  
+  在 Raspberry pi pico 板子上开发的库，抽象了 Polling 过程，提供了一个提供实现异步 api 的调度器。
+  
+- [Pico-Go](https://github.com/Drincann/Pico-Go)
+  
+  最近复活的一个 vscode 插件，几乎是在 vscode 上开发 Raspberry pi pico 的唯一选择，fork from 半年前停止维护的 [cpwood/Pico-Go](https://github.com/cpwood/Pico-Go).
+  
 - [reciter](https://github.com/Drincann/reciter)
 
   一个利用艾宾浩斯遗忘曲线进行背诵的应用。
