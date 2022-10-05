@@ -34,6 +34,10 @@ Two steps to understand how a system works:
 
   适配 Thunk/Promise 的上层协程调度逻辑封装。
   
+- [c-coroutine]()
+  
+  尝试使用通过 c 宏实现的生成器、Promise 以及 epoll 在 c 中实现一个协程的抽象。
+  
 - [angie-dotnet](https://github.com/Drincann/angie-dotnet)
 
   Web 后端开发框架，实现了动态路由和中间件。
