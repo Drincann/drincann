@@ -18,6 +18,10 @@ Two steps to understand how a system works:
 
 # 一些有趣的项目
 
+- [answerbot-gpt](https://github.com/Drincann/answerbot-gpt)
+  
+  让 chatGPT 自动回答知乎的问题。
+
 - [Mirai-js](https://github.com/Drincann/Mirai-js)
 
   Mirai-js，一个运行在 Node.js、浏览器(UMD)下的，简单的 QQ 机器人开发框架。
