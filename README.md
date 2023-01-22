@@ -18,21 +18,17 @@ Two steps to understand how a system works:
 
 # 一些有趣的项目
 
-- [answerbot-gpt](https://github.com/Drincann/answerbot-gpt)
-  
-  让 chatGPT 自动回答知乎的问题。
-
 - [Mirai-js](https://github.com/Drincann/Mirai-js)
 
   Mirai-js，一个运行在 Node.js、浏览器(UMD)下的，简单的 QQ 机器人开发框架。
 
-- [Promise](https://github.com/Drincann/Promise)
+- [pico-code-snippets](https://github.com/Drincann/pico-code-snippets)
   
-  Promise 实现。
-  
+  在 Raspberry pi pico 板子上开发的库，抽象了 Polling 过程，实现了基于事件循环的无栈协程调度器，为上层逻辑提供异步 api。
+
 - [py-coroutine](https://github.com/Drincann/py-coroutine)
 
-  协程调度器的底层调度逻辑实现 (eventloop / eventqueue / asyncapi / io)。
+  协程调度器的底层调度逻辑的 python 实现 (eventloop / eventqueue / asyncapi / io)。
   
 - [js-coroutine](https://github.com/Drincann/js-coroutine)
 
@@ -41,11 +37,19 @@ Two steps to understand how a system works:
 - [c-coroutine](https://github.com/Drincann/c-coroutine)
   
   尝试使用通过 c 宏实现的生成器、Promise 以及 epoll 在 c 中实现一个协程的抽象。
+
+- [Promise](https://github.com/Drincann/Promise)
+  
+  Promise 实现。
   
 - [angie-dotnet](https://github.com/Drincann/angie-dotnet)
 
   Web 后端开发框架，实现了动态路由和中间件。
-  
+
+- [soft-renderer](https://github.com/Drincann/cg-soft-renderer)
+
+  软渲染器的 c 实现。
+
 - [captcha-identification](https://github.com/Drincann/captcha-identification)
 
   使用卷积神经网络的验证码识别解决方案。
@@ -54,21 +58,14 @@ Two steps to understand how a system works:
 
   用来对服务器进行优雅停机，以平滑重启 Koa 应用。
   
-- [pico-code-snippets](https://github.com/Drincann/pico-code-snippets)
-  
-  在 Raspberry pi pico 板子上开发的库，抽象了 Polling 过程，提供了一个提供实现异步 api 的调度器。
-  
 - [Pico-Go](https://github.com/Drincann/Pico-Go)
   
   最近复活的一个 vscode 插件，几乎是在 vscode 上开发 Raspberry pi pico 的唯一选择，fork from 半年前停止维护的 [cpwood/Pico-Go](https://github.com/cpwood/Pico-Go).
   
-- [reciter](https://github.com/Drincann/reciter)
-
-  一个利用艾宾浩斯遗忘曲线进行背诵的应用。
-  
 - [noteServer](https://github.com/Drincann/noteServer)
 
-  我的博客所有代码都在这里，它是这样部署的。
+  我的博客所有代码都在这里，文章都是 .md，整个博客几乎是静态的，服务端只提供了从文件系统生成侧栏结构的接口。
+  文章托管在 gitee 上，用[这个脚本](https://github.com/Drincann/script/blob/master/autoupload.py)自动推送，服务端会定时拉取。
   
 - [angie-java](https://github.com/Drincann/angie-java)
   
@@ -100,3 +97,7 @@ Two steps to understand how a system works:
   - [koa-static](https://github.com/Drincann/koa-static) 静态资源访问服务
   - [koa-etag](https://github.com/Drincann/koa-etag) etag 中间件实现
   - [koa-router](https://github.com/Drincann/koa-router) 简单路由实现，使用 trie 实现的动态路由可以看我的另一个项目 angie-dotnet
+
+- [answerbot-gpt](https://github.com/Drincann/answerbot-gpt)
+  
+  让 chatGPT 自动回答知乎的问题。
