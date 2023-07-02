@@ -4,6 +4,8 @@
 
 # Drincann [![HitCount](https://hits.dwyl.com/Drincann/Drincann.svg?style=flat-square)](http://hits.dwyl.com/Drincann/Drincann)
 
+> What i can not create, i do not understand. —— Richard Feynman
+
 Two steps to understand how a system works:
 
 - **Get a general high-level idea.**
