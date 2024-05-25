@@ -28,6 +28,10 @@ Two steps to understand how a system works:
   
   在 Raspberry pi pico 板子上开发的库，抽象了 Polling 过程，实现了基于事件循环的无栈协程调度器，为上层逻辑提供异步 api。
 
+- [tiny-text-crdt](https://github.com/Drincann/tiny-text-crdt)
+
+  一个 400 行的 Text CRDT 的玩具实现，它在分布式去中心化环境下实现了最终强一致性。
+  
 - [py-coroutine](https://github.com/Drincann/py-coroutine)
 
   协程调度器的底层调度逻辑的 python 实现 (eventloop / eventqueue / asyncapi / io)。
