@@ -55,14 +55,6 @@ Two steps to understand how a system works:
 - [soft-renderer](https://github.com/Drincann/cg-soft-renderer)
 
   软渲染器的 c 实现。
-
-- [captcha-identification](https://github.com/Drincann/captcha-identification)
-
-  使用卷积神经网络的验证码识别解决方案。
-  
-- [koa-shutdown-gracefully](https://github.com/Drincann/koa-shutdown-gracefully) 
-
-  用来对服务器进行优雅停机，以平滑重启 Koa 应用。
   
 - [Pico-Go](https://github.com/Drincann/Pico-Go)
   
@@ -87,7 +79,7 @@ Two steps to understand how a system works:
   
 - [uploadImg](https://github.com/Drincann/uploadImg)
 
-  用于方便地将图片上传到 oss 服务，并生成一个 markdown 图片到你的剪贴板，它的设计同样糟糕，但运行良好。
+  用于方便地将图片上传到 oss 服务，并生成一个 markdown 图片到你的剪贴板，它的设计非常糟糕，但能正常工作。
   
 - [serializer](https://github.com/Drincann/serializer)
 
@@ -95,10 +87,11 @@ Two steps to understand how a system works:
   
 - [ReverseProxy](https://github.com/Drincann/ReverseProxy)
   
-  反向代理服务器的实现。
+  可配置的反向代理服务实现。
   
 - koa 中间件的实现
-  
+
+  - [koa-shutdown-gracefully](https://github.com/Drincann/koa-shutdown-gracefully) 优雅停机
   - [koa-bodyparser](https://github.com/Drincann/koa-bodyparser) body parser
   - [koa-static](https://github.com/Drincann/koa-static) 静态资源访问服务
   - [koa-etag](https://github.com/Drincann/koa-etag) etag 中间件实现
