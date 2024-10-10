@@ -30,7 +30,7 @@ Two steps to understand how a system works:
 
 - [tiny-text-crdt](https://github.com/Drincann/tiny-text-crdt)
 
-  一个 400 行的 Text CRDT 的玩具实现，它在分布式去中心化环境下实现了最终强一致性。
+  一个 400 行的 Text CRDT 的玩具实现，它在分布式去中心化环境下实现了最终一致性。
   
 - [py-coroutine](https://github.com/Drincann/py-coroutine)
 
